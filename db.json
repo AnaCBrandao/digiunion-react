@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "name": "Beco - Literatura e linguagem",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Educacao"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "O santo e a Porca",
+      "budget": "500",
+      "category": {
+        "id": "3",
+        "name": "Teatro"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Camerata",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Musica"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Educacao"
+    },
+    {
+      "id": 2,
+      "name": "Musica"
+    },
+    {
+      "id": 3,
+      "name": "Teatro"
+    },
+    {
+      "id": 4,
+      "name": "Pintura"
+    }
+  ]
+}
