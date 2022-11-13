@@ -24,7 +24,12 @@
   color: #222;
 }
 
+.homeContainer a {
+  margin-left: 2em;
+}
+
 .homeContainer img {
   margin: 2em 0;
   width: 350px;
 }
+

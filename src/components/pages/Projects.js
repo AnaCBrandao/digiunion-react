@@ -45,7 +45,7 @@ function Projects() {
      return(
 	<div className={styles.project_container}>
 	  <div className={styles.title_container}>
-	    <h1>My Projects</h1>
+	    <h1>Projects</h1>
 	    <LinkButton to="/newproject" text="Criar Projeto"/>
 	  </div>
 	  {message && <Message msg={message} type="success"/>}

@@ -18,8 +18,21 @@
         "id": "3",
         "name": "Teatro"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 150,
+      "services": [
+        {
+          "name": "Ana",
+          "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+          "cost": "50",
+          "id": "408e285d-8f27-4272-9333-f48614f66b02"
+        },
+        {
+          "name": "Júlia",
+          "cost": "100",
+          "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+          "id": "e78e30af-1fe3-4896-9b9c-8d0e57f555ce"
+        }
+      ],
       "id": 2
     },
     {

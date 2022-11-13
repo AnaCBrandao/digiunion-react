@@ -12,9 +12,9 @@ function Navbar() {
 	      <img src={logo} alt="Digiunion"/>
 	   </Link></li>
            <li className={styles.item}><Link to="/">Home</Link></li>
-	   <li className={styles.item}><Link to="/projects">Projects</Link></li>
-           <li className={styles.item}><Link to="/about">About</Link></li>
-	   <li className={styles.item}><Link to="/contact">Contact</Link></li>
+	   <li className={styles.item}><Link to="/projects">Projetos</Link></li>
+           <li className={styles.item}><Link to="/about">Sobre</Link></li>
+	   <li className={styles.item}><Link to="/contact">Contato</Link></li>
 	 </ul>
 	</Container>
 	</nav>
