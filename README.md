@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <p>The purpose of this website is to publish projects and research, as well as to enable their creators to know people who wish to support them. <p>
-  <img src="https://cdn.discordapp.com/attachments/767910421025521665/1046858087572713623/digiunion-react.gif"/>
+  <img src="https://media.discordapp.net/attachments/767910421025521665/1046858087572713623/digiunion-react.gif?ex=6626af11&is=66143a11&hm=5f678d927009e6f94d6dddc6373a052ace669bfede4b6d6f5e881dfda2ef9899&="/>
 </div>
 
 ## Features
